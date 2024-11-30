@@ -26,7 +26,7 @@ export default function Home() {
               <p className='mt-8 text-lg lg:pr-10 max-w-prose text-center lg:text-left text-balance md:text-wrap'>
                 Capture your favorite memories with your own,{' '}
                 <span className='font-semibold'>one-of-one</span> phone case.
-                CaseCobra allows you to protect your memories, not just your
+                ViperCase allows you to protect your memories, not just your
                 phone case.
               </p>
 
@@ -51,17 +51,17 @@ export default function Home() {
                 <div className='flex -space-x-4'>
                   <img
                     className='inline-block h-10 w-10 rounded-full ring-2 ring-slate-100'
-                    src='/users/user-1.png'
+                    src='/users/user-1.jpg'
                     alt='user image'
                   />
                   <img
                     className='inline-block h-10 w-10 rounded-full ring-2 ring-slate-100'
-                    src='/users/user-2.png'
+                    src='/users/user-2.jpg'
                     alt='user image'
                   />
                   <img
                     className='inline-block h-10 w-10 rounded-full ring-2 ring-slate-100'
-                    src='/users/user-3.png'
+                    src='/users/user-3.jpg'
                     alt='user image'
                   />
                   <img
@@ -147,11 +147,11 @@ export default function Home() {
               <div className='flex gap-4 mt-2'>
                 <img
                   className='rounded-full h-12 w-12 object-cover'
-                  src='/users/user-1.png'
+                  src='/users/user-1.jpg'
                   alt='user'
                 />
                 <div className='flex flex-col'>
-                  <p className='font-semibold'>Jonathan</p>
+                  <p className='font-semibold'>Shivang</p>
                   <div className='flex gap-1.5 items-center text-zinc-600'>
                     <Check className='h-4 w-4 stroke-[3px] text-green-600' />
                     <p className='text-sm'>Verified Purchase</p>
@@ -188,7 +188,7 @@ export default function Home() {
                   alt='user'
                 />
                 <div className='flex flex-col'>
-                  <p className='font-semibold'>Josh</p>
+                  <p className='font-semibold'>Kushal</p>
                   <div className='flex gap-1.5 items-center text-zinc-600'>
                     <Check className='h-4 w-4 stroke-[3px] text-green-600' />
                     <p className='text-sm'>Verified Purchase</p>
